@@ -9,7 +9,6 @@ https://shema1.github.io/active-live/
 For this project I have used the following technologies:
 * HTML
 * CSS3
-* SCSS
 * Bootstrap
 * BEM methodology
 
